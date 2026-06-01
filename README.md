@@ -499,9 +499,8 @@ Built as a hiring challenge to demonstrate:
 - Mobile UX design
 - Error handling best practices
 
-**Contact:** [your-email@example.com]
+**Contact:** sabarirahulmurali2001@gmail.com
 
-**Portfolio:** [your-portfolio-url]
 
 ---
 
