@@ -408,25 +408,6 @@ hvac-ai-app2/
 
 ---
 
-## 📸 Screenshots
-
-### Dashboard View
-*[Screenshot: List of HVAC units sorted by status, showing health scores and key metrics]*
-
-### Detail View - Critical Unit
-*[Screenshot: Detailed sensor readings with AI insight showing critical vibration issue]*
-
-### Detail View - Healthy Unit
-*[Screenshot: Normal readings with AI confirmation of healthy operation]*
-
-### AI Insight - Loading State
-*[Screenshot: Loading spinner while generating AI insight]*
-
-### Fallback Diagnostics
-*[Screenshot: Local rule-based insight when API unavailable]*
-
----
-
 ## 🎓 Key Learnings
 
 ### Technical Insights
@@ -489,7 +470,7 @@ MIT License - See LICENSE file for details
 
 ## 👨‍💻 Author
 
-**[Your Name]**
+**Sabari rahul**
 
 Built as a hiring challenge to demonstrate:
 - React Native + TypeScript expertise
@@ -504,7 +485,7 @@ Built as a hiring challenge to demonstrate:
 
 ---
 
-## 🙏 Acknowledgments
+## Acknowledgments
 
 - OpenAI for GPT-4o-mini API
 - Expo team for excellent developer experience
